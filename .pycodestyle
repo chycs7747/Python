@@ -1,0 +1,4 @@
+[pycodestyle]
+ignore = W191
+#W293 blank line contains whitespace
+# --show-source --show-pep8
