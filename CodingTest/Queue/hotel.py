@@ -1,3 +1,5 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/155651
+
 import heapq
 
 def solution(book_time):
